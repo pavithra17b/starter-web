@@ -6,4 +6,4 @@
 
 ##deployment
 
-##hoe to continue
+##how to continue
