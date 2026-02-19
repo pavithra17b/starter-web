@@ -17,4 +17,4 @@ this is simple web project
 please fork this repo
 
 ###copyright
-git.training 
+git.training  . all rigths reserved
