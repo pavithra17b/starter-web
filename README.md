@@ -6,7 +6,9 @@ this is a simple website project for showing how to use git and github together
 
 this is an example to show different parts of the git repo and various commands using a web prjt
 ##purpose
+ as stated above
 
 ##deployment
+
 
 ##how to continue
