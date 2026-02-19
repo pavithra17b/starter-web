@@ -12,6 +12,7 @@ this is an example to show different parts of the git repo and various commands 
 this is simple web project
 
 ##how to continue
+please fork this repo
 
 ###copyright
 git.training 
