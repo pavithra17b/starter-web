@@ -17,3 +17,5 @@ please fork this repo
 
 ###copyright
 git.training  . all rigths reserved
+
+## UPDATES FROM DEV 1
